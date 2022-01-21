@@ -8,6 +8,11 @@
     scroll-behavior: smooth;
 }
 
+@media only screen and (max-width: 760px){
+    /* mobile layout */
+    
+}
+
 body{
     min-height: 100vh;
     overflow-x: hidden;
